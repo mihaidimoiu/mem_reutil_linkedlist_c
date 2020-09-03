@@ -5,9 +5,8 @@ avoid creating a new node.
 
 
 Files:
-
-ex2.c - Implementation code C \n
-ex2.h - Header file C \n
-struct.h - Defining struct used for this \n
+- ex2.c - Implementation code C
+- ex2.h - Header file C 
+- struct.h - Defining struct used for this
 
 This program has 5 unit tests written in C and executed in main
