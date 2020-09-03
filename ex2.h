@@ -10,7 +10,7 @@ void print_list(struct node*);
 void delete_list(struct node**);
 
 void test_insert();
-void test_serach(unsigned int);
+void test_search(unsigned int);
 void test_delete(unsigned int);
 void test_insert_deleted_object(unsigned int);
 void test_insert_new_object_that_is_not_in_second_list(unsigned int);
