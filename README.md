@@ -9,6 +9,6 @@ Files:
 - ex2.h - Header file C 
 - struct.h - Defining struct used for this
 
-This program has 5 unit tests written in C and executed in main
+This program has 5 unit tests written in C and executed in main.
 
 If you find any bugs or improvements feel free to make branches and make the changes.
